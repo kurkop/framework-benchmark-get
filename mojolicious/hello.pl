@@ -1,5 +1,5 @@
 use Mojolicious::Lite;
 
-get '/' => {text => 'Hello World!'};
+get '/' => {text => 'Hello World'};
 
 app->start;
